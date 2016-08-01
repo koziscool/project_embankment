@@ -1,1 +1,1 @@
-![Alt text](/progress.jpg?raw=true "Recent Euler progress")
+![Alt text](/progress.png?raw=true "Recent Euler progress")
