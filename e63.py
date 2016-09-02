@@ -10,7 +10,7 @@ def e63():
             if len( str( pow(base, exponent) )) == exponent:
                 # print base, exponent
                 counter += 1
-            if len( str( pow(base, exponent) )) < exponent:
+            else:
                 break
             exponent += 1
         base += 1
